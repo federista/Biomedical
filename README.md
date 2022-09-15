@@ -46,7 +46,7 @@ step 3 --> activate virtual enviroment:
     $ source BoMI/bin/activate
 ``` 
 
-step 4 --> istall tkinter:
+step 4 --> install tkinter:
 
 ``` 
     $ sudo apt install python3-tk
